@@ -8,7 +8,6 @@
 I am Karan Bhatia and I am a third year undergrad pursuing ICT with minor in Computational Science. I love dogs!🐶
 
 - 📫 How to reach me: karanbhatia116@gmail.com
-- ⚡ Fun fact: Apple started on April Fool's day
 
 ![Karan's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=karanbhatia116&theme=default&show_icons=true) <br>
 
